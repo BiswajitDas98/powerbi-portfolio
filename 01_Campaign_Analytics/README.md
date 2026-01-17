@@ -37,5 +37,6 @@ to identify battleground constituencies.
 
 ![Overview](Screenshots/Overview2.png)
 ![Main Page](Screenshots/Main_Page1.png)
+![Change in Vote Share](Screenshots/Civs1.png)
 ![Map Analysis](Screenshots/Map2.png)
 ![Age Analysis](Screenshots/ANG2.png)
