@@ -18,3 +18,16 @@ to identify battleground constituencies.
 - Data modeling and relationships
 - Conditional formatting for insights
 - Map-based visualizations
+
+## Business Impact
+- Enabled campaign teams to track change in vote share over time
+- Helped identify age-group response patterns using scatter analysis
+- Improved visibility into caste-wise winning trends at seat level
+- Supported faster decision-making across Punjab, Gujarat, West Bengal, and Goa
+
+## Tools & Techniques
+- Power BI
+- DAX (CALCULATE, AVERAGEX, SUMMARIZE)
+- Data modeling & relationships
+- Conditional formatting
+- Map and scatter visuals
