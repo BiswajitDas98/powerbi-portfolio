@@ -40,3 +40,8 @@ to identify battleground constituencies.
 ![Change in Vote Share](Screenshots/Civs1.png)
 ![Map Analysis](Screenshots/Map2.png)
 ![Age Analysis](Screenshots/ANG2.png)
+
+## Resume Highlights
+- Advanced DAX modeling for vote share, normalization, and predictive allocation
+- Multi-state campaign analytics dashboards
+- Business-focused insights for decision-making
