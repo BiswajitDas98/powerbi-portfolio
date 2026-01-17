@@ -29,7 +29,6 @@ Example issue:
 
 ## Pseudo DAX Logic
 ```DAX
-#N_ANG_SUMMERY_BC = 
 VAR _max =
     CALCULATE (
         MAX ( 'Table'[RES_AC_BC]),
