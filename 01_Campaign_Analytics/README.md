@@ -31,3 +31,11 @@ to identify battleground constituencies.
 - Data modeling & relationships
 - Conditional formatting
 - Map and scatter visuals
+
+
+## Dashboard Preview
+
+![Overview](Screenshots/Overview2.png)
+![Main Page](Screenshots/Main_Page1.png)
+![Map Analysis](Screenshots/Map2.png)
+![Age Analysis](Screenshots/ANG2.png)
