@@ -22,3 +22,7 @@ Track marketing campaign performance across channels to optimize spend and ROI.
 - Helped marketing team optimize budgets across channels
 - Increased campaign ROI by identifying high-performing segments
 
+## Dashboard Preview
+
+![Dashboard1](Screenshots/Marketing_Dashboard_W.png)
+![Dashboard2](Screenshots/Marketing_Dashboard_D.png)
