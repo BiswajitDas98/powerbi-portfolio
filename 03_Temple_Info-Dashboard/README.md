@@ -25,5 +25,7 @@ temple-related information such as location and category with relative images.
 - Cleaned and transformed using Power BI Power Query
 - Optimized DAX measures for performance
 
-## 📸 Dashboard Preview
-Screenshots of the dashboard are available in the `/screenshots` folder.
+## Dashboard Preview
+
+![Dashboard1](Screenshots/TEMPLE_D1.png)
+![Dashboard2](Screenshots/TEMPLE_D2.png)
