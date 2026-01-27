@@ -9,6 +9,7 @@ and DAX logic used for real-world business problems.
 - Power BI
 - DAX
 - SQL
+- QGIS
 - Python
 - Data Modeling
 - Dashboard Design
@@ -18,3 +19,4 @@ and DAX logic used for real-world business problems.
 - Marketing Dashboard
 - Sales Dashboard
 - Learning and Development Dashboard
+- QGIS GeoJSON Digitization
