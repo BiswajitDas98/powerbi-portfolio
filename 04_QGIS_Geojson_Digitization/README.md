@@ -24,3 +24,8 @@ The workflow includes georeferencing, digitization, attribute creation, and join
 - Spatial data creation
 - GIS learning projects
 - Map-based dashboards
+
+## Dashboard Preview
+
+![Dashboard1](Screenshots/AS2.png)
+![Dashboard2](Screenshots/AS4.png)
