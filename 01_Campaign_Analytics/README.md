@@ -35,8 +35,12 @@ to identify battleground constituencies.
 
 ## Dashboard Preview
 
-![Overview](Screenshots/Overview2.png)
+![LSE24 Main Page](Screenshots/LSE24.png)
+![LSE24 Map1](Screenshots/LSE24_Map.png)
+![LSE24 Map2](Screenshots/LSE24_Map2.png)
+![LSE24 Map3](Screenshots/LSE24_Map3.png)
 ![Main Page](Screenshots/Main_Page1.png)
+![Overview](Screenshots/Overview2.png)
 ![Change in Vote Share](Screenshots/Civs1.png)
 ![Map Analysis](Screenshots/Map2.png)
 ![Age Analysis](Screenshots/ANG2.png)
