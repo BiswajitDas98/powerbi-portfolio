@@ -100,7 +100,5 @@ If a page shows a web page or dashboard through an HTML content visual that cove
 | Output |
 <img width="1312" height="738" alt="THEM1" src="https://github.com/user-attachments/assets/736addce-7f04-46bf-944e-d4677e2e1807" />
 <img width="1318" height="750" alt="THEM1_L" src="https://github.com/user-attachments/assets/ce3d5bb4-76ae-4362-9024-eb7ff57ca8cf" />
-<img width="1314" height="742" alt="THEM2_L" src="https://github.com/user-attachments/assets/9cc03217-faee-4eea-82ff-c4aa5677c236" />
 <img width="1315" height="741" alt="THEM2" src="https://github.com/user-attachments/assets/fd14cb5e-a56d-494f-a499-43d57bbc9bf4" />
-
-
+<img width="1314" height="742" alt="THEM2_L" src="https://github.com/user-attachments/assets/9cc03217-faee-4eea-82ff-c4aa5677c236" />
